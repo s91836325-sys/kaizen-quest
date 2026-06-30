@@ -1,0 +1,1 @@
+{"name":"kaizen-quest","version":"1.0.0","description":"Premium anime-inspired RPG productivity app","workspaces":["mobile","backend"],"scripts":{"dev":"npm run dev --workspace=mobile & npm run dev --workspace=backend","build":"npm run build --workspaces","test":"npm run test --workspaces","lint":"npm run lint --workspaces"}}
