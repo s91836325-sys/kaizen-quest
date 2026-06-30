@@ -1,0 +1,11 @@
+node_modules/
+.pnp
+.env
+.env.local
+.expo/
+dist/
+build/
+.DS_Store
+*.log
+.vscode/
+.idea/
